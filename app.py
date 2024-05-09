@@ -4,7 +4,8 @@ from nltk.stem.porter import PorterStemmer
 import nltk
 from nltk.corpus import stopwords
 import string
-
+import requests 
+from bs4 import BeautifulSoup
 ps = PorterStemmer()
 
 
