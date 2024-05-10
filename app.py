@@ -1,4 +1,3 @@
-import streamlit as st
 import pickle
 from nltk.stem.porter import PorterStemmer
 import nltk
