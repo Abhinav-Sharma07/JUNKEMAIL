@@ -1,5 +1,6 @@
 streamlit 
 nltk
+punkt
 scikit-learn
 pandas
 streamlit-navigation-bar
