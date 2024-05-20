@@ -50,8 +50,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
     
 )
-navigation_items = ["JUNKEMAIL ","                                                     ", "Made by Abhinav" ]
-page=st_navbar(navigation_items)
 
 # Main Content
 st.markdown("<h1 style='text-align: center;'>JUNKEMAIL</h1>", unsafe_allow_html=True)
