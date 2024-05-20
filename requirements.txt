@@ -3,5 +3,4 @@ nltk
 punkt
 scikit-learn
 pandas
-streamlit==1.33.0
 streamlit-navigation-bar==3.3.0
