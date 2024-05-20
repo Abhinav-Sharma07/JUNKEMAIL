@@ -1,6 +1,3 @@
 streamlit 
 nltk
-punkt
 scikit-learn
-pandas
-streamlit-navigation-bar==3.3.0
