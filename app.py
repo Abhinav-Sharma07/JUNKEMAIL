@@ -5,7 +5,7 @@ import string
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-from streamlit_navigation_bar import st_navbar
+
 
 # Download nltk resources
 nltk.download('punkt')
